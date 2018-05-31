@@ -1,0 +1,7 @@
+addition module
+===============
+
+.. automodule:: addition
+    :members:
+    :undoc-members:
+    :show-inheritance:
